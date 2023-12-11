@@ -1,0 +1,14 @@
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Gruppuppgift - 21an\bin\Debug\net8.0\Gruppuppgift - 21an.exe
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Gruppuppgift - 21an\bin\Debug\net8.0\Gruppuppgift - 21an.deps.json
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Gruppuppgift - 21an\bin\Debug\net8.0\Gruppuppgift - 21an.runtimeconfig.json
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Gruppuppgift - 21an\bin\Debug\net8.0\Gruppuppgift - 21an.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Gruppuppgift - 21an\bin\Debug\net8.0\Gruppuppgift - 21an.pdb
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Gruppuppgift - 21an\obj\Debug\net8.0\Gruppuppgift - 21an.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Gruppuppgift - 21an\obj\Debug\net8.0\Gruppuppgift - 21an.AssemblyInfoInputs.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Gruppuppgift - 21an\obj\Debug\net8.0\Gruppuppgift - 21an.AssemblyInfo.cs
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Gruppuppgift - 21an\obj\Debug\net8.0\Gruppuppgift - 21an.csproj.CoreCompileInputs.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Gruppuppgift - 21an\obj\Debug\net8.0\Gruppuppgift - 21an.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Gruppuppgift - 21an\obj\Debug\net8.0\refint\Gruppuppgift - 21an.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Gruppuppgift - 21an\obj\Debug\net8.0\Gruppuppgift - 21an.pdb
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Gruppuppgift - 21an\obj\Debug\net8.0\Gruppuppgift - 21an.genruntimeconfig.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Gruppuppgift - 21an\obj\Debug\net8.0\ref\Gruppuppgift - 21an.dll

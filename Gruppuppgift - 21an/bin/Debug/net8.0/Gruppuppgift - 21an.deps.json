@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gruppuppgift - 21an/1.0.0": {
+        "runtime": {
+          "Gruppuppgift - 21an.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gruppuppgift - 21an/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
